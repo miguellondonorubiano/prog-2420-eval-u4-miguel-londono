@@ -1,0 +1,57 @@
+# Archivos y directorios generados por Visual Studio Code
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta de entorno virtual (si se utiliza)
+venv/
+
+# Archivos de caché de Python
+*.cache/
+
+# Logs y archivos temporales
+*.log
+*.swp
+
+# Carpeta __pycache__ generada por Python
+__pycache__/
+
+# Carpeta de archivos estáticos generados
+static/
+
+# Carpeta de archivos de compilación
+build/
+
+# Carpeta de archivos compilados
+dist/
+
+# Archivo de configuración local de Python
+pyvenv.cfg
+
+# Carpeta __pycache__ generada por Python 3.8 y versiones posteriores
+__pycache__/
+
+# Carpeta generada por pipenv
+Pipfile.lock
+
+# Archivos de configuración específicos de sistema operativo (por ejemplo, .DS_Store en macOS)
+.DS_Store
+Thumbs.db
+
+# Archivos generados por Pytest
+pytest_cache/
+
+# Informes de cobertura generados por herramientas como pytest-cov
+htmlcov/
+
+# Registros y resultados de pruebas
+*.log
+*.xml
+
+# Archivos temporales de Pytest
+.pytest_cache/
+
+# Archivo de configuración de Pytest
+pytest.ini
